@@ -1,0 +1,19 @@
+{
+  "summary": {
+    "title": "thing"
+  },
+  "detail": {
+    "contributors": [
+      {
+        "name": "sarah"
+      }
+    ],
+    "diagrams": [
+      {
+        "title": "seq",
+        "thumbnail": "./public/content/images/thumbnail.jpg",
+        "id": 0
+      }
+    ]
+  }
+}
